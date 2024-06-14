@@ -1,0 +1,18 @@
+{
+    "id": 104447446,
+    "name": "Supernova",
+    "author": "Sailent749",
+    "creators": ["Sailent749"],
+    "verifier": "Leo",
+    "verification": "https://youtu.be/QkQ-H8tGmmk?si=tqoGkPsRdV0sPaPU",
+    "percentToQualify": "31",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Ben",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
