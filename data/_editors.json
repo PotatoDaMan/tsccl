@@ -1,6 +1,11 @@
 [
     {
         "role": "owner",
+        "name": "Ben",
+        "link": "https://www.youtube.com/@klinoserus"
+    },
+    {
+        "role": "dev",
         "name": "Leo",
         "link": "https://www.youtube.com/@potatodaman"
     }
