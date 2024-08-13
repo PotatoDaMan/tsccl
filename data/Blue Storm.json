@@ -11,4 +11,10 @@
     "password": "Free To Copy",
     "records": [
     ]
+      {
+            "user": "Ben",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 60
+        },
 }
