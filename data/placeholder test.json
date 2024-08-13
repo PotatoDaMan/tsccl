@@ -1,0 +1,12 @@
+{
+    "id": 000000000,
+    "name": "levelname",
+    "author": "levelauthor",
+    "creators": ["creator1", "creator2", "creator3"],
+    "verifier": "verifiername",
+    "verification": "placeholderlink",
+    "percentToQualify": "60",
+    "password": "Free To Copy",
+    "records": [
+    ]
+}
