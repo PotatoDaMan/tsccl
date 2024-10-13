@@ -1,0 +1,24 @@
+{
+    "id": 111116603,
+    "name": "Sonic Wave 88P",
+    "author": "Cyclic",
+    "creators": ["Cyclic"],
+    "verifier": "Est",
+    "verification": "https://youtu.be/ZO5vQg4Bliw?t=106",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Ben",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Leo",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
