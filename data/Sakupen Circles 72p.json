@@ -1,0 +1,18 @@
+{
+    "id": 111298191,
+    "name": "Sakupen Circles 72p",
+    "author": "5estyou",
+    "creators": ["5estyou", "Nick24"],
+    "verifier": "Est",
+    "verification": "https://youtu.be/FGPXf03tNXA",
+    "percentToQualify": "32",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Ben",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
