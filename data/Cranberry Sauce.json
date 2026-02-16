@@ -1,0 +1,30 @@
+{
+    "id": 114568028,
+    "name": "Cranberry Sauce",
+    "author": "Fexitty",
+    "creators": ["Fexitty"],
+    "verifier": "Fexitty",
+    "verification": "https://www.youtube.com/watch?v=CqZwpEzCy3g",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Ben",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 240
+        },
+      {
+            "user": "Pancake",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 240
+        },
+      {
+            "user": "Eli",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
