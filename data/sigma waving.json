@@ -1,0 +1,30 @@
+{
+    "id": 111943466,
+    "name": "sigma waving",
+    "author": "Eli",
+    "creators": ["Eli"],
+    "verifier": "Eli",
+    "verification": "https://youtu.be/sR3qiTN93sk",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Ben",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Fexitty",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Leo",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
