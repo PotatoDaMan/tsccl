@@ -1,0 +1,24 @@
+{
+    "id": 102352021,
+    "name": "Wave thingiemagiger",
+    "author": "Eli",
+    "creators": ["Eli"],
+    "verifier": "Eli",
+    "verification": "https://youtu.be/dQm_rZ9Rwe4",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Leo",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Ben",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
