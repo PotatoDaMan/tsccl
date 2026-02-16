@@ -1,0 +1,18 @@
+{
+    "id": 114568028,
+    "name": "klino the furry",
+    "author": "Gogglas",
+    "creators": ["Gogglas"],
+    "verifier": "Gogglas",
+    "verification": "https://youtu.be/d61xpwjshYA",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Ben",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
